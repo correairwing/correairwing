@@ -28,6 +28,7 @@ Contact Me
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
 Olá, eu sou Irwing Corrêa! 👋
+
 Sobre mim
 
 Sou um desenvolvedor Full Stack com experiência em Java, Spring Boot, JavaScript e React, atualmente em transição de carreira e sempre em busca de novos conhecimentos. Tenho forte interesse em projetos que envolvem o desenvolvimento de APIs RESTful e integração com bancos de dados relacionais e não relacionais, como PostgreSQL e MongoDB.
